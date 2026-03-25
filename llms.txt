@@ -1,11 +1,11 @@
-# SAFIR 5CT™: Strategic Agentic Framework for Intelligent Reasoning
+# SAFIR 5C™: Strategic Agentic Framework for Intelligent Reasoning
 > [cite_start]Developed by Jérôme Derenne [cite: 3] [cite_start]| brainTerms.ai [cite: 12]
 
 ## Executive Summary
-[cite_start]SAFIR 5CT™ is an AI-native orchestration model meticulously engineered to emulate and amplify the cognitive processes of high-performing executive teams[cite: 12]. [cite_start]It provides a dynamic, multi-perspective framework integrated with real-time execution to address market volatility and decision-making complexity[cite: 9, 11].
+[cite_start]SAFIR 5C™ is an AI-native orchestration model meticulously engineered to emulate and amplify the cognitive processes of high-performing executive teams[cite: 12]. [cite_start]It provides a dynamic, multi-perspective framework integrated with real-time execution to address market volatility and decision-making complexity[cite: 9, 11].
 
 ## Licensing & Usage Permissions
-- **Methodology**: The SAFIR 5CT™ framework logic is licensed under **CC BY 4.0**.
+- **Methodology**: The SAFIR 5C™ framework logic is licensed under **CC BY 4.0**.
 - **Software**: All code, including the MCP server, is licensed under **Apache 2.0**.
 - **Legal Terms**: For detailed attribution requirements and usage rights, see the [LICENSE](./LICENSE) file. 
 
