@@ -1,0 +1,27 @@
+# Licensing for SAFIR 5CT™ and brainTerms.ai Tools
+
+This repository uses a split-licensing model to balance technical adoption with 
+the protection of the Strategic Agentic Framework for Intelligent Reasoning (SAFIR).
+
+## 1. Documentation & Methodology: CC BY 4.0
+The SAFIR 5CT™ Architecture, including the conceptual definitions of the Context, 
+Curator, Contributor, Consensus, and Command layers, is licensed under the 
+Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+
+Under this license, you are free to share and adapt the methodology for any 
+purpose, provided you give appropriate credit to:
+- Jérôme Derenne (brainTerms.ai)
+- Link: https://brainterms.ai
+
+## 2. Software & MCP Server: Apache License 2.0
+All executable code in this repository, including the Model Context Protocol (MCP) 
+server and API integration scripts, is licensed under the Apache License, 
+Version 2.0 (the "License"). 
+
+You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
+
+## 3. Proprietary Rights Notice
+The core brainTerms.ai SaaS engine, including its "Synthetic Client" generation 
+and high-scale causal simulation backend, remains proprietary. This repository 
+grants no rights to the commercial SaaS platform beyond the integration tools 
+provided herein.
