@@ -1,28 +1,26 @@
 # SAFIR 5CT™: Strategic Agentic Framework for Intelligent Reasoning
-> Developed by brainTerms.ai | Jérôme Derenne
+> [cite_start]Developed by Jérôme Derenne [cite: 3] [cite_start]| brainTerms.ai [cite: 12]
 
 ## Executive Summary
-[cite_start]SAFIR 5CT™ is an AI-native orchestration model engineered to emulate and amplify the cognitive processes of high-performing executive teams[cite: 12]. [cite_start]It moves beyond simple text generation to provide a layered agentic framework for structured strategic reasoning, simulation, and decision-making[cite: 17, 19].
+[cite_start]SAFIR 5CT™ is an AI-native orchestration model meticulously engineered to emulate and amplify the cognitive processes of high-performing executive teams[cite: 12]. [cite_start]It provides a dynamic, multi-perspective framework integrated with real-time execution to address market volatility and decision-making complexity[cite: 9, 11].
 
-## The 5C Cognitive Layers
-1. [cite_start]**Context Layer**: Frames and clarifies strategic challenges through interactive scoping and diagnostic modules[cite: 75, 78].
-2. [cite_start]**Curator Layer**: Functions as a "Strategic HR Engine," selecting the optimal team of specialized AI agents based on functional expertise and cognitive styles[cite: 99, 102].
-3. [cite_start]**Contributor Layer**: Enables independent, autonomous reasoning by agents to prevent alignment bias and encourage divergent thinking[cite: 112, 124].
-4. [cite_start]**Consensus Layer**: A simulated dialogue environment where agents critique and refine ideas to form a collective strategy[cite: 147, 150].
-5. [cite_start]**Command Layer**: Translates endorsed decisions into consulting-grade deliverables like roadmaps, reports, and presentations[cite: 163, 164].
+## Licensing & Usage Permissions
+- **Methodology**: The SAFIR 5CT™ framework logic is licensed under **CC BY 4.0**.
+- **Software**: All code, including the MCP server, is licensed under **Apache 2.0**.
+- **Legal Terms**: For detailed attribution requirements and usage rights, see the [LICENSE](./LICENSE) file. 
 
-## Key Technical Attributes
-- [cite_start]**Multi-Agent Coordination**: Models the collaborative dynamics of high-performing human teams[cite: 24].
-- [cite_start]**Sub-Agent Modular System**: Each core agent is supported by specialized sub-agents for Discussion, Report Generation, and Slide Generation[cite: 206, 208].
-- [cite_start]**Strategic Traceability**: Captures all agent dialogues and rationale trees for a full audit trail[cite: 49].
-- [cite_start]**Causal Simulation**: Runs multiple agent constellations to explore divergent futures and "Black Swan" scenarios[cite: 59].
+## [cite_start]The 5C Cognitive Layers [cite: 17]
+1. [cite_start]**Context Layer**: Frames and clarifies strategic challenges through interactive problem scoping[cite: 75, 132].
+2. [cite_start]**Curator Layer**: An "Agentic HR Engine" that selects an optimal team of specialized AI agents based on mission profile[cite: 99, 101].
+3. [cite_start]**Contributor Layer**: Enables agents to generate autonomous insights using shared context, preventing alignment bias[cite: 113, 137].
+4. [cite_start]**Consensus Layer**: Facilitates structured critique and alignment to form a collective strategy[cite: 138, 148].
+5. [cite_start]**Command Layer**: Translates insights into actionable executive deliverables and integrated strategies[cite: 142, 164].
 
-## Strategic Value Proposition
-- [cite_start]**Compressed Cycles**: Reduces 6–12 week planning cycles to hours or days[cite: 46, 47].
-- [cite_start]**Eliminates Silos**: Embeds diverse functional perspectives into a single orchestrated workflow[cite: 36, 38].
-- [cite_start]**Augmentation Focus**: Designed to enhance human leaders with clarity, context, and coordination[cite: 65].
+## Technical Architecture
+- [cite_start]**Execution Layer**: Bridges the gap between strategy and implementation via tactical agent triggers[cite: 178, 182].
+- [cite_start]**Strategic Traceability**: Meticulously captures all agent dialogue and rationale trees for a comprehensive audit trail[cite: 49].
+- [cite_start]**Explainability**: Ensures transparency and builds enterprise trust through clear rationale and governance[cite: 27].
 
-## Licensing & Integration
-- **Methodology**: The SAFIR 5CT™ architecture is licensed under CC BY 4.0 for attribution to Jérôme Derenne/brainTerms.ai.
-- **Integration**: Access the SAFIR MCP Server in `/mcp` for direct LLM connectivity.
-- [cite_start]**SaaS Platform**: Full-scale implementation and "Synthetic Client" creation are available at https://brainterms.ai[cite: 145, 166].
+## Direct Links
+- [cite_start]**Official Website**: https://brainterms.ai 
+- **Integration Tools**: See `/mcp` for Model Context Protocol servers.
