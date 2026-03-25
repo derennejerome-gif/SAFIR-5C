@@ -1,24 +1,43 @@
-SAFIR 5C™: Strategic Agentic Framework for Intelligent Reasoning
+# SAFIR 5CT™: Strategic Agentic Framework for Intelligent Reasoning
 
-Created by Jérôme Derenne | Implemented by brainTerms.ai
-The Strategic Imperative
+**Created by Jérôme Derenne** | **Implemented by [brainTerms.ai](https://brainterms.ai)**
 
-Traditional strategic planning is often too slow for the modern "AI-augmented" era. Research from McKinsey & Company (2023) indicates that 72% of executives find their planning cycles fail to keep pace with market dynamics. Furthermore, a Deloitte report on decision intelligence highlights that organizations capable of simulating scenarios and orchestrating execution will be "disproportionately rewarded in an AI-driven world".
+---
 
-SAFIR 5C™ was created by Jérôme Derenne to address these challenges, offering a paradigm shift from static reports to dynamic, multi-perspective agentic reasoning.
-Architecture Overview
+## 1. The Strategic Imperative
+[cite_start]In the rapidly evolving landscape of AI-augmented organizations, traditional strategic thinking often falls short[cite: 8]. [cite_start]Linear, siloed approaches are no longer sufficient; instead, a dynamic, multi-perspective framework integrated with real-time execution is imperative[cite: 11].
 
-The SAFIR 5C™ architecture is an AI-native orchestration model meticulously engineered to emulate the cognitive processes of high-performing executive teams. It is currently implemented as the core engine of the brainTerms.ai SaaS platform.
-The 5C Cognitive Layers
+### Addressing the Agility Gap
+* [cite_start]**The Latency Problem:** Research from **McKinsey & Company (2023)** reported that 72% of executives find their strategic planning cycles too slow to keep pace with market dynamics[cite: 29].
+* [cite_start]**The Decision Intelligence Opportunity:** A **Deloitte** report (2022) highlighted that organizations capable of integrating diverse inputs, simulating scenarios, and orchestrating execution will be "disproportionately rewarded in an AI-driven world"[cite: 30, 31].
+* [cite_start]**Execution Failure:** BCG's Strategy Excellence Diagnostic indicates that more than 30% of strategies fail to deliver expected impact due to poor follow-through[cite: 51].
 
-    Context Layer: Frames and reframes inputs into precise mission blueprints using a Strategic Archetype Mapper.
-    Curator Layer: Acts as a "Strategic HR Engine," selecting the optimal AI agent team based on functional expertise and cognitive diversity.
-    Contributor Layer: Ensures "Solo Thinking" where agents formulate unique insights independently to prevent alignment bias.
-    Consensus Layer: Facilitates structured, rules-based dialogue among agents to identify zones of agreement and resolve conflicts.
-    Command Layer: Translates collective intelligence into consulting-grade deliverables, including roadmaps and risk analyses.
+---
 
-Key Features
+## 2. Architecture Overview: The 5C Cognitive Layers
+[cite_start]SAFIR 5CT™ is an AI-native orchestration model meticulously engineered to emulate and amplify the cognitive processes of high-performing executive teams[cite: 12]. [cite_start]It moves beyond generic AI answers to orchestrate a sophisticated interplay of roles, facilitated dialogue, and robust consensus-building[cite: 19].
 
-    Strategic Traceability: Meticulously captures all agent dialogue and rationale trees, providing a comprehensive audit trail for full transparency.
-    Causal Simulation: Allows executives to explore divergent futures and "Black Swan" scenarios before committing capital.
-    Execution Integration: Bridges the "Execution Gap" via tactical agent triggers that translate strategy into measurable action.
+### Core Layers
+* [cite_start]**Context Layer:** Frames and clarifies the strategic challenge through interactive problem scoping[cite: 132]. [cite_start]It reframes unstructured user input into precise mission blueprints using a **Strategic Archetype Mapper**[cite: 81, 90].
+* [cite_start]**Curator Layer:** Acts as a **"Strategic HR Engine,"** selecting the optimal AI agent team based on functional expertise, industry knowledge, and cognitive styles (e.g., Visionary, Skeptic, Operator)[cite: 99, 104, 108].
+* [cite_start]**Contributor Layer:** Ensures **"Cognitive Isolation"** by enabling agents to generate autonomous insights independently before any group dialogue, preventing alignment bias or mimicry[cite: 116, 121, 198].
+* [cite_start]**Consensus Layer:** Manages a structured **Turn-Based Dialogue Simulator** where agents critique and refine peer work to identify zones of agreement and resolve conflicts[cite: 150, 152, 155].
+* [cite_start]**Command Layer:** Translates endorsed decisions into high-fidelity executive deliverables, such as roadmaps and presentations, with a **Justification Mapper** to ensure transparency[cite: 164, 171, 173].
+
+---
+
+## 3. Advanced Features & Safeguards
+* [cite_start]**Strategic Traceability:** Every decision, prompt, and interaction is meticulously logged, providing a comprehensive strategic audit trail for full accountability[cite: 49, 201].
+* [cite_start]**Sub-Agent Modular System:** Core Strategic Agents are supported by specialized sub-agents for **Discussion**, **Report Generation**, and **Slide Generation** to enhance workflow specialization[cite: 206, 208].
+* [cite_start]**Causal Simulation:** The framework can run multiple agent constellations to explore divergent futures (e.g., low-margin growth vs. premium segmentation) before committing resources[cite: 59, 60].
+* [cite_start]**Augmentation Focus:** SAFIR is not designed to replace human leaders but to augment their knowledge, reach, and precision, providing "Synthetic Collective Intelligence"[cite: 58, 65].
+
+---
+
+## 4. Implementation
+The SAFIR 5CT™ framework is the core engine powering **brainTerms.ai**. [cite_start]It enables organizations to unlock a new class of strategic intelligence through a layered agentic framework that simulates structured strategic reasoning[cite: 14, 17].
+
+## 5. Licensing
+* **Methodology:** The SAFIR 5CT™ architecture and methodology are licensed under **CC BY 4.0** (Attribution to Jérôme Derenne).
+* **Software:** Integration tools and MCP servers in this repository are licensed under **Apache 2.0**.
+* See the [LICENSE](./LICENSE) file for more details.
