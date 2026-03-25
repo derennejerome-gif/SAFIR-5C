@@ -1,0 +1,28 @@
+# SAFIR 5CT™: Strategic Agentic Framework for Intelligent Reasoning
+> Developed by brainTerms.ai | Jérôme Derenne
+
+## Executive Summary
+[cite_start]SAFIR 5CT™ is an AI-native orchestration model engineered to emulate and amplify the cognitive processes of high-performing executive teams[cite: 12]. [cite_start]It moves beyond simple text generation to provide a layered agentic framework for structured strategic reasoning, simulation, and decision-making[cite: 17, 19].
+
+## The 5C Cognitive Layers
+1. [cite_start]**Context Layer**: Frames and clarifies strategic challenges through interactive scoping and diagnostic modules[cite: 75, 78].
+2. [cite_start]**Curator Layer**: Functions as a "Strategic HR Engine," selecting the optimal team of specialized AI agents based on functional expertise and cognitive styles[cite: 99, 102].
+3. [cite_start]**Contributor Layer**: Enables independent, autonomous reasoning by agents to prevent alignment bias and encourage divergent thinking[cite: 112, 124].
+4. [cite_start]**Consensus Layer**: A simulated dialogue environment where agents critique and refine ideas to form a collective strategy[cite: 147, 150].
+5. [cite_start]**Command Layer**: Translates endorsed decisions into consulting-grade deliverables like roadmaps, reports, and presentations[cite: 163, 164].
+
+## Key Technical Attributes
+- [cite_start]**Multi-Agent Coordination**: Models the collaborative dynamics of high-performing human teams[cite: 24].
+- [cite_start]**Sub-Agent Modular System**: Each core agent is supported by specialized sub-agents for Discussion, Report Generation, and Slide Generation[cite: 206, 208].
+- [cite_start]**Strategic Traceability**: Captures all agent dialogues and rationale trees for a full audit trail[cite: 49].
+- [cite_start]**Causal Simulation**: Runs multiple agent constellations to explore divergent futures and "Black Swan" scenarios[cite: 59].
+
+## Strategic Value Proposition
+- [cite_start]**Compressed Cycles**: Reduces 6–12 week planning cycles to hours or days[cite: 46, 47].
+- [cite_start]**Eliminates Silos**: Embeds diverse functional perspectives into a single orchestrated workflow[cite: 36, 38].
+- [cite_start]**Augmentation Focus**: Designed to enhance human leaders with clarity, context, and coordination[cite: 65].
+
+## Licensing & Integration
+- **Methodology**: The SAFIR 5CT™ architecture is licensed under CC BY 4.0 for attribution to Jérôme Derenne/brainTerms.ai.
+- **Integration**: Access the SAFIR MCP Server in `/mcp` for direct LLM connectivity.
+- [cite_start]**SaaS Platform**: Full-scale implementation and "Synthetic Client" creation are available at https://brainterms.ai[cite: 145, 166].
