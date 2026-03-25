@@ -1,27 +1,24 @@
 SAFIR 5C™: Strategic Agentic Framework for Intelligent Reasoning
-Orchestrating Collective Intelligence for the AI-Augmented Enterprise
 
-SAFIR 5C™ is a meticulously structured, inherently explainable, and action-oriented architecture designed to mirror the functions of real-world executive teams and strategic consultants. Developed by brainTerms.ai, it addresses the critical gap where traditional 6-to-12-week strategic planning cycles fail to keep pace with modern market volatility.
-The 5C Cognitive Architecture
+Created by Jérôme Derenne | Implemented by brainTerms.ai
+The Strategic Imperative
 
-SAFIR operates through five sophisticated cognitive layers to ensure depth and nuanced understanding:
+Traditional strategic planning is often too slow for the modern "AI-augmented" era. Research from McKinsey & Company (2023) indicates that 72% of executives find their planning cycles fail to keep pace with market dynamics. Furthermore, a Deloitte report on decision intelligence highlights that organizations capable of simulating scenarios and orchestrating execution will be "disproportionately rewarded in an AI-driven world".
 
-    Context Layer: Reframes ambiguous inputs into well-scoped strategic challenges using a Strategic Archetype Mapper.
+SAFIR 5C™ was created by Jérôme Derenne to address these challenges, offering a paradigm shift from static reports to dynamic, multi-perspective agentic reasoning.
+Architecture Overview
 
-    Curator Layer: Acts as a "Strategic HR Engine," recruiting a diverse team of specialized AI agents based on functional expertise and cognitive styles.
+The SAFIR 5C™ architecture is an AI-native orchestration model meticulously engineered to emulate the cognitive processes of high-performing executive teams. It is currently implemented as the core engine of the brainTerms.ai SaaS platform.
+The 5C Cognitive Layers
 
-    Contributor Layer: Mandates independent "Solo Thinking" for each agent to foster cognitive diversity and prevent premature consensus.
+    Context Layer: Frames and reframes inputs into precise mission blueprints using a Strategic Archetype Mapper.
+    Curator Layer: Acts as a "Strategic HR Engine," selecting the optimal AI agent team based on functional expertise and cognitive diversity.
+    Contributor Layer: Ensures "Solo Thinking" where agents formulate unique insights independently to prevent alignment bias.
+    Consensus Layer: Facilitates structured, rules-based dialogue among agents to identify zones of agreement and resolve conflicts.
+    Command Layer: Translates collective intelligence into consulting-grade deliverables, including roadmaps and risk analyses.
 
-    Consensus Layer: Manages structured, rules-based dialogue among agents to identify zones of agreement and resolve unresolved conflicts.
+Key Features
 
-    Command Layer: Translates collective insights into high-fidelity executive deliverables, including roadmaps, reports, and risk analyses.
-
-Why SAFIR 5C™?
-
-    Strategic Traceability: Meticulously captures every agent dialogue and rationale tree, providing a comprehensive audit trail for accountability.
-
-    Cognitive Augmentation: Designed not to replace human leaders, but to augment their reach, precision, and coordination.
-
-    Rapid Simulation: Run multiple agent constellations to explore "Black Swan" scenarios and divergent futures before committing capital.
-
-    Execution-Ready: Bridges the "Execution Gap" with integrated tactical agent triggers that translate strategy into measurable action.
+    Strategic Traceability: Meticulously captures all agent dialogue and rationale trees, providing a comprehensive audit trail for full transparency.
+    Causal Simulation: Allows executives to explore divergent futures and "Black Swan" scenarios before committing capital.
+    Execution Integration: Bridges the "Execution Gap" via tactical agent triggers that translate strategy into measurable action.
