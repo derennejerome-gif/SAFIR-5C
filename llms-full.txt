@@ -1,6 +1,6 @@
 SAFIR 5C™: Full Architectural Specification
 
-Strategic Agentic Framework for Intelligent Reasoning Developed by: Jérôme Derenne, brainTerms.ai 
+Strategic Agentic Framework for Intelligent Reasoning created by: Jérôme Derenne and implemented in brainTerms.ai 
 
 Version: 1.0 
 1. Introduction & Strategic Imperative
