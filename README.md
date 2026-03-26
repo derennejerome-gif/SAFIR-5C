@@ -37,7 +37,7 @@
 ## 4. Implementation
 The SAFIR 5CT™ framework is the core engine powering **brainTerms.ai**. [cite_start]It enables organizations to unlock a new class of strategic intelligence through a layered agentic framework that simulates structured strategic reasoning[cite: 14, 17].
 
-## 5. Licensing
-* **Methodology:** The SAFIR 5CT™ architecture and methodology are licensed under **CC BY 4.0** (Attribution to Jérôme Derenne).
+## 5. Licensing [see respective LICENCE and TRADEMARK file]
+* **Methodology:** The SAFIR 5CT™ architecture and methodology are licensed under **CC BY‑SA 4.0** (Attribution to Jérôme Derenne).
 * **Software:** Integration tools and MCP servers in this repository are licensed under **Apache 2.0**.
 * See the [LICENSE](./LICENSE) file for more details.
