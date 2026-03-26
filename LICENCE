@@ -49,35 +49,52 @@ Full legal text: https://www.apache.org/licenses/LICENSE-2.0
 
 ## 3. Trademark Policy for SAFIR 5C™
 
-The term **“SAFIR 5C™”** is a protected trademark owned by **Jérôme Derenne**.  
-This license **does not** grant any rights to use the trademark.
+The following names and variants are claimed trademarks owned by **Jérôme Derenne**:
 
-### ✅ Permitted Uses:
-- You may reference *SAFIR 5C™* **only** when discussing the **unaltered, original** methodology.
-- You may cite it for educational, academic, or analytical purposes.
+- **SAFIR 5C™**  
+- **SAFIR‑5C™**  
+- **SAFIR5C™**  
 
-### ❌ Prohibited Uses:
-- You may **not** use the name *SAFIR 5C™* (or confusingly similar variants)  
-  to label, brand, or market:
-  - modified versions  
-  - derivative frameworks  
-  - remixes or adaptations  
-- Modified versions **must be renamed** and **must not** imply endorsement by  
-  **brainTerms.ai** or **Jérôme Derenne**.
+Typographic, spacing, hyphenation, or abbreviation variations are considered equivalent for trademark purposes.
 
-For trademark usage rules, protected name variants, and domain-of-use constraints,
-see the accompanying TRADEMARK.md file. The LICENSE does not grant rights to use
-SAFIR 5C™, SAFIR‑5C™, SAFIR5C™, or any confusingly similar marks in the context of
-AI strategy frameworks, agentic systems, digital-twin simulation, or business design.
+This license **does not** grant any rights to use these trademarks.
 
+### ✅ 3.1 Permitted Uses:
+You may reference these marks **only** when discussing the **unaltered, original** methodology.
+You may cite them for academic, educational, or analytical purposes.
+
+### ❌ 3.2 Prohibited Uses:
+You may **not** use the SAFIR 5C™ family of names to label, brand, or market:
+- modified versions  
+- derivative frameworks  
+- remixes or adaptations  
+- commercial or competitive tools  
+
+Modified versions **must be renamed** and **must not** imply endorsement by  
+**brainTerms.ai** or **Jérôme Derenne**.
 
 Examples of prohibited naming:
 - “SAFIR 5C v2.0”  
 - “Enhanced SAFIR 5C”  
-- “SAFIR 5C — Enterprise Edition”  
+- “SAFIR5C Enterprise Edition”  
 
 Examples of acceptable naming:
-- “Derived strategy orchestration model inspired by SAFIR 5C™ (original by Jérôme Derenne)”
+- “Derived orchestration model inspired by SAFIR 5C™ (original by Jérôme Derenne)”  
+
+---
+
+## 3.3 Domain of Trademark Use
+
+The SAFIR 5C™ trademark (including all listed variants) applies **exclusively** within the fields of:
+
+- Artificial Intelligence Strategy Frameworks  
+- Agentic AI systems and orchestration  
+- Digital‑twin–based strategic simulation  
+- Business, Product, and Innovation Design methodologies  
+- Any software, documentation, platform, or service provided by **brainTerms.ai**
+
+This trademark claim does **not** extend to unrelated fields in which the word “SAFIR” may be used,  
+such as military programs, aerospace systems, logistics systems, or other non‑AI contexts.
 
 ---
 
@@ -88,7 +105,7 @@ The brainTerms.ai platform, including:
 - digital‑twin simulation engines  
 - proprietary orchestration systems  
 - UI/UX workflows  
-- system logic or backend implementations  
+- backend logic or system architecture  
 
 is **not** open‑sourced and remains  
 **© brainTerms.ai — All Rights Reserved**.
@@ -118,4 +135,5 @@ By contributing to or using this repository, you agree to respect these terms.
 
 ---
 
-© 2026 — Jérôme Derenne (brainTerms.ai). All rights reserved on trademarks and platform intellectual property.
+© 2026 — **Jérôme Derenne (brainTerms.ai)**.  
+All rights reserved on trademarks and platform intellectual property.
