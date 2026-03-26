@@ -80,9 +80,13 @@ You may describe, quote, summarize, or teach the unaltered framework.
 
 ### ✅ 4.3 You attribute the source correctly  
 Use attribution such as:
+“SAFIR 5C™ by Jérôme Derenne (brainTerms.ai).”
 
-> “SAFIR 5C™ — Original methodology by Jérôme Derenne (brainTerms.ai).  
-> https://brainterms.ai”
+When referencing or displaying the SAFIR 5C™ name in any publication, presentation, article, 
+or strategic framework, attribution must appear in a clearly visible location on the first 
+page or in the introductory section. Attribution may not be hidden, minimized, or placed 
+exclusively in back pages, appendices, or micro‑text.
+
 
 ### ✅ 4.4 You link to the canonical source materials  
 Referring users to the original repository or platform is encouraged.
