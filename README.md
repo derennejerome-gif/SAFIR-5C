@@ -49,3 +49,11 @@ The SAFIR 5CT™ framework is the core engine powering [**brainTerms.ai**](https
 * **Software:** Integration tools and MCP servers in this repository are licensed under **Apache 2.0**.
 * Trademarks: SAFIR 5C family names protected (see TRADEMARK.md)
 * See the [LICENSE](./LICENSE) file for more details.
+
+* ## Public Introduction to SAFIR 5C™
+
+I recently published an article explaining the SAFIR 5C™ methodology and its role in agentic AI.
+
+🔗 **Read the full LinkedIn article:**  
+[SAFIR 5C™ — A structured model for strategic reasoning in agentic AI](PASTE_YOUR_LINK_HERE)
+
