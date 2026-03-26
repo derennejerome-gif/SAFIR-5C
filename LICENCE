@@ -1,27 +1,115 @@
-# Licensing for SAFIR 5CT™ and brainTerms.ai Tools
+# Licensing for SAFIR 5C™ and brainTerms.ai Tools
 
-This repository uses a split-licensing model to balance technical adoption with 
-the protection of the Strategic Agentic Framework for Intelligent Reasoning (SAFIR).
+This repository uses a split‑licensing model designed to promote the adoption of the
+Strategic Agentic Framework for Intelligent Reasoning (SAFIR 5C™) while protecting the
+integrity, identity, and professional reliability of the methodology and the brainTerms.ai
+platform.
 
-## 1. Documentation & Methodology: CC BY 4.0
-The SAFIR 5CT™ Architecture, including the conceptual definitions of the Context, 
-Curator, Contributor, Consensus, and Command layers, is licensed under the 
-Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+---
 
-Under this license, you are free to share and adapt the methodology for any 
-purpose, provided you give appropriate credit to:
-- Jérôme Derenne (brainTerms.ai)
-- Link: https://brainterms.ai
+## 1. Documentation & Methodology: CC BY‑SA 4.0
 
-## 2. Software & MCP Server: Apache License 2.0
-All executable code in this repository, including the Model Context Protocol (MCP) 
-server and API integration scripts, is licensed under the Apache License, 
-Version 2.0 (the "License"). 
+The SAFIR 5C™ Architecture — including all conceptual definitions of the Context,
+Curator, Contributor, Consensus, and Command layers — is licensed under the  
+**Creative Commons Attribution–ShareAlike 4.0 International (CC BY‑SA 4.0)** license.
 
-You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
+Under this license:
 
-## 3. Proprietary Rights Notice
-The core brainTerms.ai SaaS engine, including its "Synthetic Client" generation 
-and high-scale causal simulation backend, remains proprietary. This repository 
-grants no rights to the commercial SaaS platform beyond the integration tools 
-provided herein.
+### ✅ You Are Free To:
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material for any purpose, including commercially
+
+### ✅ Under the Following Conditions:
+- **Attribution** — You must give appropriate credit to the original author:  
+  - **Author:** *Jérôme Derenne (brainTerms.ai)*  
+  - **Source:** https://brainterms.ai  
+- **Indicate Changes** — You must clearly disclose any modifications you make.
+- **ShareAlike** — Any derivative work **must** be distributed under the **same CC BY‑SA 4.0 license**.
+- **No Additional Restrictions** — You may not apply legal or technical measures that restrict others from exercising the freedoms granted under this license.
+
+Full legal text: https://creativecommons.org/licenses/by-sa/4.0/
+
+---
+
+## 2. Software Components (MCP Servers, Integration Tools, etc.): Apache License 2.0
+
+Any software code included in this repository (scripts, integration utilities, reference 
+implementations, MCP servers) is licensed under the **Apache License 2.0**.
+
+This provides:
+- Commercial use  
+- Redistribution  
+- Modification  
+- Patent protection  
+- Transparent attribution obligations  
+
+Full legal text: https://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+## 3. Trademark Policy for SAFIR 5C™
+
+The term **“SAFIR 5C™”** is a protected trademark owned by **Jérôme Derenne**.  
+This license **does not** grant any rights to use the trademark.
+
+### ✅ Permitted Uses:
+- You may reference *SAFIR 5C™* **only** when discussing the **unaltered, original** methodology.
+- You may cite it for educational, academic, or analytical purposes.
+
+### ❌ Prohibited Uses:
+- You may **not** use the name *SAFIR 5C™* (or confusingly similar variants)  
+  to label, brand, or market:
+  - modified versions  
+  - derivative frameworks  
+  - remixes or adaptations  
+- Modified versions **must be renamed** and **must not** imply endorsement by  
+  **brainTerms.ai** or **Jérôme Derenne**.
+
+Examples of prohibited naming:
+- “SAFIR 5C v2.0”  
+- “Enhanced SAFIR 5C”  
+- “SAFIR 5C — Enterprise Edition”  
+
+Examples of acceptable naming:
+- “Derived strategy orchestration model inspired by SAFIR 5C™ (original by Jérôme Derenne)”
+
+---
+
+## 4. Protection of the brainTerms.ai Platform
+
+The brainTerms.ai platform, including:
+- agent architectures  
+- digital‑twin simulation engines  
+- proprietary orchestration systems  
+- UI/UX workflows  
+- system logic or backend implementations  
+
+is **not** open‑sourced and remains  
+**© brainTerms.ai — All Rights Reserved**.
+
+Nothing in this repository grants rights to:
+- reverse engineer  
+- replicate  
+- emulate  
+- or commercially compete with  
+
+the proprietary operational platform of brainTerms.ai.
+
+---
+
+## 5. Intent of This Licensing Model
+
+This licensing structure is designed to:
+
+✅ Promote global adoption of the SAFIR 5C™ methodology  
+✅ Encourage academic and professional use  
+✅ Ensure derivative research remains open  
+✅ Protect the SAFIR 5C™ brand from dilution  
+✅ Preserve the integrity and authority of brainTerms.ai as the official implementation  
+✅ Prevent misuse, confusion, or misattribution in commercial contexts  
+
+By contributing to or using this repository, you agree to respect these terms.
+
+---
+
+© 2026 — Jérôme Derenne (brainTerms.ai). All rights reserved on trademarks and platform intellectual property.
