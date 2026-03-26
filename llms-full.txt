@@ -85,9 +85,8 @@ Each core Strategic Agent is supported by internal sub-agents to enhance special
     Report Generation Sub-Agent: Standardizes clarity and formatting across reports.
     Slide Generator Sub-Agent: Transforms insights into executive-friendly visualizations.
 
-4. Licensing and Attribution
-
+4. Licensing and Attribution (see respective LICENCE and TRADEMARK file)
 This methodology is provided for AI-augmented strategic reasoning.
 
-    Methodology License: CC BY 4.0 (Attribution to Jérôme Derenne - brainTerms.ai).
+    Methodology License: CC BY‑SA 4.0 (Attribution to Jérôme Derenne - brainTerms.ai).
     Platform: For full-scale implementation, visit brainTerms.ai.
