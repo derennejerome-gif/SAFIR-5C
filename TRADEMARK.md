@@ -164,7 +164,7 @@ If you wish to:
 You must request approval.
 
 Contact:  
-**hello@brainterms.ai**
+**admin@brainterms.ai**
 
 All decisions are at the sole discretion of **Jérôme Derenne**.
 
