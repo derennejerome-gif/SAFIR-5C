@@ -57,3 +57,6 @@ I recently published an article explaining the SAFIR 5C™ methodology and its
 🔗 **Read the full LinkedIn article:**  
 [SAFIR 5C™ — A structured model for strategic reasoning in agentic AI](PASTE_YOUR_LINK_HERE)
 
+#SAFIR5C 
+#SAFIR 5C 
+#SAFIR-5C
