@@ -1,4 +1,4 @@
-# SAFIR 5CT™: Strategic Agentic Framework for Intelligent Reasoning
+# SAFIR 5C™: Strategic Agentic Framework for Intelligent Reasoning
 
 **Created by Jérôme Derenne** | **Implemented by [brainTerms.ai](https://brainterms.ai)**
 
