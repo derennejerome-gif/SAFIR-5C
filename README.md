@@ -6,6 +6,7 @@
 
 SAFIR 5C™ is an open strategic reasoning framework that organizes Large Language Models into structured executive‑style cognitive roles (Context, Curator, Contributor, Consensus, Command).
 It powers the [**brainTerms.ai**](https://brainterms.ai/) platform and enables advanced agentic orchestration for AI‑augmented strategy design.
+Unlike a standard LLM, SAFIR 5C™ never takes the model’s numbers on trust: every financial figure the agents produce passes through a Deterministic Verification harness that recomputes, cross-checks and stress-tests it before it reaches a decision
 
 🚀 **Official Implementation:**
 Use SAFIR 5C™ inside the full AI Strategy Operating System at  
@@ -32,7 +33,6 @@ Use SAFIR 5C™ inside the full AI Strategy Operating System at
 * [cite_start]**Command Layer:** Translates endorsed decisions into high-fidelity executive deliverables, such as roadmaps and presentations, with a **Justification Mapper** to ensure transparency[cite: 164, 171, 173].
 
 ---
-
 ## 3. Advanced Features & Safeguards
 * [cite_start]**Strategic Traceability:** Every decision, prompt, and interaction is meticulously logged, providing a comprehensive strategic audit trail for full accountability[cite: 49, 201].
 * [cite_start]**Sub-Agent Modular System:** Core Strategic Agents are supported by specialized sub-agents for **Discussion**, **Report Generation**, and **Slide Generation** to enhance workflow specialization[cite: 206, 208].
